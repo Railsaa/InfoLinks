@@ -8,7 +8,7 @@ export default function Index () {
             <Text>Eu sou o millior!!!</Text>
             <Text>Railsa de Andrade Fonseca</Text>
             <Text>Técnico em Informática</Text>
-            <Text>sou estudande do 3° periodo</Text>
+            <Text>Sou estudante do 3° periodo</Text>
             <Text>A vida não é um morango</Text>
         </View>
 
