@@ -10,6 +10,7 @@ export default function Index () {
             <Text>Técnico em Informática</Text>
             <Text>Sou estudante do 3° periodo</Text>
             <Text>A vida não é um morango</Text>
+            <Text>Atualizando os testes</Text>
         </View>
 
     );
