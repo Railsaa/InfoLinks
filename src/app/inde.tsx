@@ -6,10 +6,11 @@ export default function Index () {
         //Componente Text sendo usando para Renderizar um texto na tela
         <View>
             <Text>Eu sou o millior!!!</Text>
-
-            <Text>Railsa</Text>
-            
+            <Text>Railsa de Andrade Fonseca</Text>
             <Text>Técnico em Informática</Text>
+            <Text>sou estudande do 3° periodo</Text>
+            <Text>A vida não é um morango</Text>
         </View>
+
     );
 }
