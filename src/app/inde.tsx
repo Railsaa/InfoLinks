@@ -15,8 +15,17 @@ export default function Index () {
         </View>
 
     );
-}
+    
+} //Personalização do código
 const styles = StyleSheet.create({
+
+    container:{
+        flex:1, // considera toda a area util da tela para os componetes
+        justifyContent:"center", //justificar todo o texto
+        alignItems:"center", // centralizar os elementos no centro da tela
+        flexDirection:"row", // alinha o texto
+
+    },
     title: {
         color: "red",
         fontSize: 22,
